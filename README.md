@@ -1,5 +1,5 @@
 # Lesson
-Heelo World
+Hello World
 
 - 岐阜県
 - 滋賀県
